@@ -1,0 +1,1 @@
+I'm content inside the file I'm appended by the append function
